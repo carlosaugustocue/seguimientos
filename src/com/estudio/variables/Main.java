@@ -6,7 +6,9 @@ public class Main {
 
         System.out.println(vars);
         vars.setEdad((byte) 45);
+        vars.setPrecio(1835.25f);
+        vars.setEsVerdad(false);
         System.out.println(vars.getEdad());
-        System.out.println(vars);
+        System.out.println(vars.toString());
     }
 }
