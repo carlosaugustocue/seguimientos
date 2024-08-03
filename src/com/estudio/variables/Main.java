@@ -3,6 +3,7 @@ package com.estudio.variables;
 public class Main {
     public static void main(String[] args) {
         Variables vars = new Variables();
+        Nombres nombres = new Nombres();
 
         System.out.println(vars);
         vars.setEdad((byte) 45);
@@ -16,5 +17,7 @@ public class Main {
         vars.setEsVerdad(false);
 
         System.out.println(vars);
+
+        nombres.mensajes();
     }
 }
