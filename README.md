@@ -82,4 +82,4 @@ Este repositorio está organizado en directorios que corresponden a cada uno de 
 Para empezar, simplemente clona este repositorio y navega por los diferentes directorios para explorar los ejemplos y ejercicios:
 
 ```bash
-git clone https://github.com/tu-usuario/introduccion-java.git
+git clone https://github.com/carlosaugustocue/seguimientos
