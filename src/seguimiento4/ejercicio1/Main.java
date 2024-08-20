@@ -14,7 +14,7 @@ public class Main {
         System.out.println("Estado del crédito personal: " + creditoPersonal.obtenerEstado());
 
         // Crear una propiedad
-        Propiedad propiedad = new Propiedad("Avenida Siempre Viva 742", 100000);
+        Propiedad propiedad = new Propiedad("Avenida XYZ", 100000);
 
         // Crear una solicitud de crédito hipotecario
         SolicitudCredito solicitudHipotecaria = new SolicitudCredito(cliente, "hipotecario", 80000, 240, 0.03);
