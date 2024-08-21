@@ -1,4 +1,4 @@
-package com.estudio.vectores.dependencia;
+package com.estudio.vector.dependency;
 
 public class Main {
     public static void main(String[] args) {
@@ -11,9 +11,9 @@ public class Main {
         };
 
         // Checking if vectors are linearly independent
-        LinearIndependence linearIndependence = new LinearIndependence();
+        LinearDependency linearDependency = new LinearDependency();
 
-        int rank = linearIndependence.rank(vectors);
+        int rank = linearDependency.rank(vectors);
         int numVectors = vectors.length;
         int dimensions = vectors[0].length;
 

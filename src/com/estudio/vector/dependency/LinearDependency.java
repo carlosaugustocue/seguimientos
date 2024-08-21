@@ -1,6 +1,6 @@
-package com.estudio.vectores.dependencia;
+package com.estudio.vector.dependency;
 
-public class LinearIndependence {
+public class LinearDependency {
 
     // Function to perform Gaussian elimination and find the rank of a matrix
     public int rank(double[][] matrix) {
