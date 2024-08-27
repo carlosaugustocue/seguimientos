@@ -17,5 +17,6 @@ public class Cliente extends Persona {
     public double obtenerIngresos() {
         return ingresos;
     }
+
 }
 
