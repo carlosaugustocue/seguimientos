@@ -23,6 +23,10 @@ public class Main {
         CreditoHipotecario creditoHipotecario = new CreditoHipotecario(solicitudHipotecaria, propiedad);
         EvaluadorCredito.evaluarCredito(creditoHipotecario);
         System.out.println("Estado del crédito hipotecario: " + creditoHipotecario.obtenerEstado());
+
+        System.out.println("Esto es una prueba");
+
+
     }
 }
 
