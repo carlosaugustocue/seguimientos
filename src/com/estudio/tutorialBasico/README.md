@@ -7,15 +7,15 @@
 
 ## **Autores:**
 
-- **Nombre Completo del Autor 1**  
+- **Jeronimo Rodríguez Sepúlveda**  
   Estudiante de Ingeniería de Software  
   [Corporacion Universitaria Alexander Von Humboldt]  
-  Email: @cue.edu.co
+  Email: jrodriguez_25@cue.edu.co
 
-- **Nombre Completo del Autor 2**  
+- **Carlos Augusto Aranzazu**  
   Estudiante de Ingeniería de Software  
   [Corporacion Universitaria Alexander Von Humboldt]  
-  Email: @cue.edu.co
+  Email: caaranzazu_230@cue.edu.co
 
 ---
 
